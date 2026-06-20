@@ -7,39 +7,33 @@ import { PuzzlePhoto, GreetingCardData } from './types';
 
 export const DEFAULT_PHOTOS: PuzzlePhoto[] = [
   {
-    id: 'original-cozy',
-    name: 'Our Favorite Memory',
-    url: '/photos/puzzle-photo.png',
-    credit: 'With Love'
-  },
-  {
     id: 'photo-1',
-    name: 'Joyful Hearts',
-    url: '/photos/20260617_085648.jpg',
+    name: 'Memory 1',
+    url: '/photos/20240827_000510.jpg',
     credit: 'Family'
   },
   {
     id: 'photo-2',
-    name: 'Sweet Smiles',
-    url: '/photos/20260617_085600.jpg',
+    name: 'Memory 2',
+    url: '/photos/IMG-20200612-WA0020.jpg',
     credit: 'Family'
   },
   {
     id: 'photo-3',
-    name: 'Quiet Wisdom',
-    url: '/photos/20260617_085328.jpg',
+    name: 'Memory 3',
+    url: '/photos/IMG-20240602-WA0017.jpg',
     credit: 'Family'
   },
   {
     id: 'photo-4',
-    name: 'Endless Laughter',
-    url: '/photos/20260617_085203.jpg',
+    name: 'Memory 4',
+    url: '/photos/IMG-20240607-WA0012.jpg',
     credit: 'Family'
   },
   {
     id: 'photo-5',
-    name: 'Cherished Times',
-    url: '/photos/20260617_090056.jpg',
+    name: 'Memory 5',
+    url: '/photos/image1.jpeg',
     credit: 'Family'
   }
 ];
